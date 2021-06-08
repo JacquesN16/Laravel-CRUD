@@ -13,7 +13,7 @@ Laravel study project 01
 
 Basic CRUD web-blog
 - My first build web fullstack app with Laravel
-- Understanding more about MVC model of Laravel
+- Easy project to learn Laravel by pratice. 
 
 ### Built With
 
@@ -35,3 +35,5 @@ $ php artisan serve
 ## Contact
 
 - GitHub [@JacquesN16](https://github.com/JacquesN16)
+
+Have fun coding !!!
